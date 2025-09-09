@@ -12,7 +12,7 @@ A Streamlit Web App is deployed to allow users to test news articles and classif
 - Deployed web app for live predictions
 
 ## 🚀 Try the App
-👉 [Click here to view the app](https://fake-news-detector-ensknseqzfvcv8p87pgvo4.streamlit.app/)
+👉 [Click here to view the app](https://fake-news-detector-h9qimp9igy2bue63n3yc8w.streamlit.app/)
 
 ## 📁 Files
 - `app.py` — Streamlit frontend
